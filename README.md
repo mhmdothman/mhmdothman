@@ -12,3 +12,17 @@
     <img src="https://img.shields.io/badge/Tools-Burp%20Suite%20%7C%20Metasploit%20%7C%20Nmap%20%7C%20Wireshark%20%7C%20Ghidra-00FF66?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security Tools"/>
   </a>
 </p>
+<div align="center">
+  <!-- Animated GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<br/>
+
+<!-- Animated Contribution Streak -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66" width="90%" />
+</div>
