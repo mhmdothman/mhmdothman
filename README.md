@@ -14,15 +14,15 @@
 </p>
 <div align="center">
   <!-- Animated GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdothman&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdothman&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <!-- Animated Contribution Streak -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdothman&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66" width="90%" />
 </div>
