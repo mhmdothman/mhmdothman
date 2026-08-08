@@ -1,28 +1,31 @@
 <div align="center">
 
-  <!-- Glow Cyberpunk Header Graphic -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=MOHAMMAD%20OTHMAN&fontSize=42&fontColor=00F0FF&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
-
-  <!-- Animated Typing Subtitle -->
+  <!-- Minimal Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=700&lines=Penetration+Tester+%7C+Offensive+Security;GRC+Specialist+(ISO+27001);Cybersecurity+B.Sc.+(JUST+2026);Web+%26+Network+Vulnerability+Assessor" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=MOHAMMAD+OTHMAN;OFFENSIVE+SECURITY;GRC+CONSULTANT;PENETRATION+TESTER" alt="Typing Header" />
   </a>
 
   <p align="center">
-    📍 <b>Riyadh, Saudi Arabia</b> &nbsp;•&nbsp; 
-    📧 <b><a href="mailto:meothmann@gmail.com">meothmann@gmail.com</a></b> &nbsp;•&nbsp; 
-    🔗 <b><a href="https://linkedin.com/in/mohammedothman">LinkedIn Profile</a></b>[cite: 1]
+    <code>Riyadh, SA</code> &nbsp;•&nbsp; 
+    <code>Penetration Testing & GRC</code> &nbsp;•&nbsp; 
+    <code>B.Sc. Cybersecurity</code>[cite: 1]
   </p>
 
+  <!-- Sleek Glow Badges -->
   <p align="center">
-    <i>Transferable Iqama &nbsp;|&nbsp; Registered with Saudi Council of Engineers (SCE)</i>[cite: 1]
-  </p>
-
-  <!-- 3D Glow Status Pills -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_ROLES-00F0FF?style=for-the-badge&logo=target&logoColor=black&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/FOCUS-OFFENSIVE_SEC_%26_GRC-7928CA?style=for-the-badge&logo=shield&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/DEGREE-B.Sc._CYBERSECURITY-FF0080?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=0D1117" />
+    <a href="https://linkedin.com/in/mohammedothman"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>[cite: 1]
+    <a href="mailto:meothmann@gmail.com"><img src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white" /></a>[cite: 1]
+    <img src="https://img.shields.io/badge/SCE_Registered-7928CA?style=for-the-badge" />[cite: 1]
   </p>
 
 </div>
+
+<br/>
+
+<!-- Sleek Cyber Terminal Bio -->
+```javascript
+const operator = {
+    handle: "mhmdothman",
+    skills: ["Web Pentesting", "ISO 27001 GRC", "Vulnerability Assessment", "Reverse Engineering"],
+    status: "Ready for deployment in Saudi Arabia 🇸🇦"
+};
