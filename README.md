@@ -26,3 +26,13 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdothman&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66" width="90%" />
 </div>
+### 🛡️ About Me
+- 🎓 **Cybersecurity Graduate** from **Jordan University of Science and Technology (JUST)**[cite: 1].
+- 🎯 **Roles:** Penetration Testing, Web App Security, ISO 27001 GRC Consulting[cite: 1].
+- 🚀 **Featured Project:** **CyScape** — Full-stack gamified cybersecurity learning platform built with a Security-by-Design architecture[cite: 1].
+- 🏆 **Experience:** Former Pentest & GRC Trainee at **Green Circle** & **National Cyber Security Center (NCSC)**[cite: 1].
+
+### 📜 Certifications & Achievements
+* **Certified Ethical Hacking / CEH Course**[cite: 1]
+* **Masar Program** — National Cyber Security Center (NCSC Jo)[cite: 1]
+* **TechForward Recognition Award** (Intaj / GIZ / Estarta Solutions)[cite: 1]
