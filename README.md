@@ -81,37 +81,15 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 ## Project — CyScape
 
-<table width="100%">
-<tr>
-<td width="15%" align="center">
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/cyscape-logo.png" width="90"/>
-</td>
-<td width="85%">
-
-**CyScape — Gamified Security Learning Platform**
-*Capstone Project · October 2025 – Present*
-
-Architected and engineered a full-stack, web-based gamified platform teaching offensive and defensive security through interactive, challenge-based levels. Implemented a Security-by-Design backend with secure session management and input validation, resilient against the OWASP Top 10. Built attack-and-defense simulation environments for practical cybersecurity training.
-
-Awarded Grade A on Capstone Project 1 and Capstone Project 2. Received the TechForward Recognition & Appreciation Award — Intaj, in collaboration with Estarta Solutions & GIZ (2026).
-
-</td>
-</tr>
-</table>
-
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/projects-card.svg" width="640"/>
+</div>
 
 ## Certifications
 
-| Certification | Issuer |
-|---|---|
-| Ethical Hacking Course Certificate | Cisco Networking Academy |
-| Ethical Hacking Practical Training | The Hope International |
-| Masar Program | National Cyber Security Center Jordan |
-| Cyber Bridge | Green Circle for Cybersecurity |
-| Governance, Risk, and Compliance Internship | Green Circle for Cybersecurity |
-
-<br/>
+<div align="center">
+<img src="src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/certifications-card.svg" width="640"/>
+</div>
 
 ## Leadership & Volunteering
 
