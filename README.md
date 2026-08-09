@@ -31,37 +31,37 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 **Frameworks & Concepts**
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-frameworks.svg"/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-frameworks.svg" height="48"/>
 
 **Security Tools** — organized by penetration testing phase
 
 *Reconnaissance & Enumeration*
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-recon.svg"/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-recon.svg" height="48"/>
 
 *Exploitation*
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-exploit.svg"/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-exploit.svg" height="48"/>
 
 *Access & Post-Exploitation*
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-access.svg"/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-access.svg" height="48"/>
 
 *Password Attacks*
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-password.svg"/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-password.svg" height="48"/>
 
 *Reverse Engineering & Binary Analysis*
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-reveng.svg"/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-reveng.svg" height="48"/>
 
 *Digital Forensics*
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-forensics.svg"/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-forensics.svg" height="48"/>
 
 **Operating Systems**
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" height="48"/>
 
 **Languages I Speak**
 <br/>
