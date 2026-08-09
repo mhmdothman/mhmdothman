@@ -16,19 +16,9 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 <br/>
 
-<table width="60%" align="center">
-<tr><td>
-
-**Degree:** B.Sc. Cybersecurity
-<br/>
-**Developer of CyScape**
-<br/>
-**Internships:** 3 Completed
-<br/>
-**CTF Status:** Active Competitor
-
-</td></tr>
-</table>
+<div align="center">
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/quick-stats.svg" width="520"/>
+</div>
 
 <br/>
 
