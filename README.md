@@ -75,30 +75,9 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 ## Experience
 
-**Governance, Risk & Compliance Trainee** — Green Circle for Cybersecurity
-*September 2025 – December 2025 · Amman, Jordan*
-- Selected for a competitive USAID-funded internship focused on Governance, Risk & Compliance, working against the ISO 27001 framework
-- Conducted security risk assessments and built risk treatment plans aligned to ISO 27001 controls
-- Built out corporate asset inventories and drafted security policy recommendations
-- Prepared remediation reports outlining compliance gaps and mitigation steps
-- Advanced to a freelance cybersecurity consultant role based on performance in the program
-
-**Penetration Tester Trainee** — Green Circle for Cybersecurity
-*August 2025 – September 2025 · Amman, Jordan*
-- Executed end-to-end penetration testing against simulated environments, including privilege escalation to root-level access
-- Conducted network reconnaissance and vulnerability assessments using Nmap, Wireshark, and Metasploit
-- Reviewed system architectures to identify infrastructure misconfigurations and documented associated risks
-- Authored professional penetration testing reports detailing exploitation paths and remediation recommendations
-
-**Internship Trainee, Masar Program** — National Cyber Security Center (NCSC)
-*July 2025 – September 2025 · Amman, Jordan*
-- Completed intensive training modules covering Web Security, Penetration Testing, Password Cracking, and Secure Development
-- Designed and developed a full-stack vulnerable web application (Java, CSS, SQL) as a final technical assessment, achieving a perfect capstone score of 100/100
-- Conducted penetration testing on the application, identifying critical SQL Injection and Cross-Site Scripting vulnerabilities
-- Implemented secure development practices to remediate identified vulnerabilities based on the OWASP Top 10 framework
-- Developed Python scripts to automate vulnerability scanning and streamline security testing workflows
-
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/experience-card.svg" width="700"/>
+</div>
 
 ## Project — CyScape
 
