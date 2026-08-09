@@ -1,98 +1,58 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/github-metrics.svg" width="100%"/>
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/github-metrics.svg" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
 
 # Mohammad Othman
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=4ADE80&center=true&vCenter=true&width=620&lines=Penetration+Tester+%7C+Offensive+Security;Governance%2C+Risk+%26+Compliance+%7C+ISO+27001;Web+App+Security+%7C+Reverse+Engineering" alt="Typing SVG" />
-
-<img src="https://img.shields.io/badge/status-open__to__work-141414?style=flat-square&labelColor=141414&color=4ADE80" />
-<img src="https://img.shields.io/badge/location-riyadh%2C_saudi_arabia-141414?style=flat-square&labelColor=141414&color=4ADE80" />
-<img src="https://img.shields.io/badge/sce-registered-141414?style=flat-square&labelColor=141414&color=4ADE80" />
+Penetration Tester | Offensive Security & GRC (ISO 27001) | Cybersecurity B.Sc. (JUST 2026)
+Transferable Iqama | Registered with Saudi Council of Engineers (SCE)
 
 </div>
 
 <br/>
 
-<div align="center">
+## Professional Summary
 
-Cybersecurity graduate specializing in penetration testing, web application security, vulnerability assessment, and Governance, Risk & Compliance under the ISO 27001 framework. Progressed from technical penetration testing into freelance GRC consulting during internships at the National Cyber Security Center (NCSC) and Green Circle for Cybersecurity. Seeking an entry-level Penetration Tester or Cybersecurity Analyst role in Saudi Arabia.
-
-</div>
+Cybersecurity graduate with hands-on experience in penetration testing, web application security, vulnerability assessment, and Governance, Risk & Compliance (GRC) using the ISO 27001 framework. Experience securing web applications, identifying critical vulnerabilities, and developing remediation strategies through internships at the National Cyber Security Center (NCSC) and Green Circle for Cybersecurity, including a progression from technical pentesting into a freelance GRC consulting role. Seeking an entry-level Penetration Tester or Cybersecurity Analyst position in Saudi Arabia.
 
 <br/>
 
 <table width="100%">
 <tr>
-<td align="center" width="25%"><sub>DEGREE</sub><br/><b>B.Sc. Cybersecurity</b></td>
-<td align="center" width="25%"><sub>CAPSTONE SCORE</sub><br/><b>100 / 100</b></td>
-<td align="center" width="25%"><sub>INTERNSHIPS</sub><br/><b>3 Completed</b></td>
-<td align="center" width="25%"><sub>CTF</sub><br/><b>Active Competitor</b></td>
+<td align="center" width="25%">DEGREE<br/><b>B.Sc. Cybersecurity</b></td>
+<td align="center" width="25%">ROLE<br/><b>Developer of CyScape</b></td>
+<td align="center" width="25%">INTERNSHIPS<br/><b>3 Completed</b></td>
+<td align="center" width="25%">CTF<br/><b>Active Competitor</b></td>
 </tr>
 </table>
 
 <br/>
 
-<hr style="height:1px;border:none;background-color:#2a2a2a;" />
-
 ## Skills
 
-**Offensive Security**
-<br/>
-<img src="https://img.shields.io/badge/penetration_testing-141414?style=flat-square&labelColor=141414&color=4ADE80" />
-<img src="https://img.shields.io/badge/privilege_escalation-141414?style=flat-square&labelColor=141414&color=4ADE80" />
-<img src="https://img.shields.io/badge/reverse_engineering-141414?style=flat-square&labelColor=141414&color=4ADE80" />
-<img src="https://img.shields.io/badge/binary_exploitation-141414?style=flat-square&labelColor=141414&color=4ADE80" />
-<img src="https://img.shields.io/badge/network_recon-141414?style=flat-square&labelColor=141414&color=4ADE80" />
+**Programming Languages**
+Python, C++, JavaScript, TypeScript, Assembly
 
-**Web & Application Security**
-<br/>
-<img src="https://img.shields.io/badge/sql_injection-141414?style=flat-square&labelColor=141414&color=22D3EE" />
-<img src="https://img.shields.io/badge/xss-141414?style=flat-square&labelColor=141414&color=22D3EE" />
-<img src="https://img.shields.io/badge/owasp_top_10-141414?style=flat-square&labelColor=141414&color=22D3EE" />
-<img src="https://img.shields.io/badge/secure_development-141414?style=flat-square&labelColor=141414&color=22D3EE" />
-<img src="https://img.shields.io/badge/vulnerability_scanning-141414?style=flat-square&labelColor=141414&color=22D3EE" />
+**Frameworks & Concepts**
+ISO 27001, OWASP Top 10, Risk Assessment, Vulnerability Assessment, Digital Forensics, Reverse Engineering
 
-**Governance, Risk & Compliance**
-<br/>
-<img src="https://img.shields.io/badge/iso_27001-141414?style=flat-square&labelColor=141414&color=A78BFA" />
-<img src="https://img.shields.io/badge/risk_assessment-141414?style=flat-square&labelColor=141414&color=A78BFA" />
-<img src="https://img.shields.io/badge/policy_%26_remediation-141414?style=flat-square&labelColor=141414&color=A78BFA" />
-<img src="https://img.shields.io/badge/digital_forensics-141414?style=flat-square&labelColor=141414&color=A78BFA" />
-<img src="https://img.shields.io/badge/asset_inventory-141414?style=flat-square&labelColor=141414&color=A78BFA" />
+**Security Tools**
+Nmap, Metasploit, Burp Suite, John the Ripper, Wireshark, Autopsy, FTK Imager, Ghidra, IDA Pro
 
-**Languages & Systems**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,linux,windows&theme=dark" />
+**Operating Systems**
+Linux, Windows
 
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/nmap-141414?style=flat-square&logo=nmap&labelColor=141414&color=94a3b8" />
-<img src="https://img.shields.io/badge/metasploit-141414?style=flat-square&logo=metasploit&labelColor=141414&color=94a3b8" />
-<img src="https://img.shields.io/badge/burp_suite-141414?style=flat-square&logo=burpsuite&labelColor=141414&color=94a3b8" />
-<img src="https://img.shields.io/badge/wireshark-141414?style=flat-square&logo=wireshark&labelColor=141414&color=94a3b8" />
-<img src="https://img.shields.io/badge/ghidra-141414?style=flat-square&logo=ghidra&labelColor=141414&color=94a3b8" />
-<img src="https://img.shields.io/badge/ida_pro-141414?style=flat-square&logo=ida&labelColor=141414&color=94a3b8" />
-<img src="https://img.shields.io/badge/john_the_ripper-141414?style=flat-square&labelColor=141414&color=94a3b8" />
-<img src="https://img.shields.io/badge/autopsy_%2F_ftk-141414?style=flat-square&labelColor=141414&color=94a3b8" />
+**Languages I Speak**
+Arabic — Native, English — Fluent
 
-<hr style="height:1px;border:none;background-color:#2a2a2a;" />
+<br/>
 
 ## Education
 
 **Jordan University of Science and Technology (JUST)** — Irbid, Jordan
-Bachelor of Science, Cybersecurity · January 2022 – July 2026 · GPA 3.14/4.00
+Bachelor of Science, Cybersecurity · January 2022 – July 2026 · GPA 3.14/4
 
-<sub>Ethical Hacking · Web Security · Digital Forensics · Reverse Engineering · Software Security · OS Security · Security Analytics · Network Defense · Network Security · Cryptography · Risk Management · Linux Operating Systems</sub>
+Relevant coursework: Ethical Hacking, Web Security, Digital Forensics, Reverse Engineering, Software Security, OS Security, Security Analytics, Network Defense, Network Security, Cryptography, Risk Management, Linux Operating Systems.
 
-<hr style="height:1px;border:none;background-color:#2a2a2a;" />
+<br/>
 
 ## Experience
 
@@ -119,21 +79,29 @@ Bachelor of Science, Cybersecurity · January 2022 – July 2026 · GPA 3.14/4.0
 - Implemented secure development practices to remediate identified vulnerabilities based on the OWASP Top 10 framework
 - Developed Python scripts to automate vulnerability scanning and streamline security testing workflows
 
-<hr style="height:1px;border:none;background-color:#2a2a2a;" />
+<br/>
 
-## Projects
+## Project — CyScape
 
-**CyScape — Gamified Security Learning Platform** *(Capstone Project · October 2025 – Present)*
+<table width="100%">
+<tr>
+<td width="15%" align="center">
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/cyscape-logo.png" width="90"/>
+</td>
+<td width="85%">
+
+**CyScape — Gamified Security Learning Platform**
+*Capstone Project · October 2025 – Present*
 
 Architected and engineered a full-stack, web-based gamified platform teaching offensive and defensive security through interactive, challenge-based levels. Implemented a Security-by-Design backend with secure session management and input validation, resilient against the OWASP Top 10. Built attack-and-defense simulation environments for practical cybersecurity training.
 
 Awarded Grade A on Capstone Project 1 and Capstone Project 2. Received the TechForward Recognition & Appreciation Award — Intaj, in collaboration with Estarta Solutions & GIZ (2026).
 
-**Capture The Flag** *(July 2025 – Present)*
+</td>
+</tr>
+</table>
 
-Compete in national cybersecurity competitions covering reverse engineering, binary exploitation, web security, and cryptography, using Ghidra, IDA Pro, and Linux-based tooling.
-
-<hr style="height:1px;border:none;background-color:#2a2a2a;" />
+<br/>
 
 ## Certifications
 
@@ -145,7 +113,7 @@ Compete in national cybersecurity competitions covering reverse engineering, bin
 | Cyber Bridge | Green Circle for Cybersecurity |
 | Governance, Risk, and Compliance Internship | Green Circle for Cybersecurity |
 
-<hr style="height:1px;border:none;background-color:#2a2a2a;" />
+<br/>
 
 ## Leadership & Volunteering
 
@@ -154,15 +122,15 @@ Compete in national cybersecurity competitions covering reverse engineering, bin
 - Authored technical study materials covering Network Security and cybersecurity fundamentals
 - Assisted students in selecting cybersecurity specializations and technical learning paths
 
-<hr style="height:1px;border:none;background-color:#2a2a2a;" />
+<br/>
+
+## Contact Me
 
 <div align="center">
 
-## Contact
+<a href="https://linkedin.com/in/mohammedothman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:meothmann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<a href="https://linkedin.com/in/mohammedothman"><img src="https://img.shields.io/badge/linkedin-141414?style=for-the-badge&logo=linkedin&labelColor=141414&color=4ADE80" /></a>
-<a href="mailto:meothmann@gmail.com"><img src="https://img.shields.io/badge/email-141414?style=for-the-badge&logo=gmail&labelColor=141414&color=4ADE80" /></a>
-
-<sub>Riyadh, Saudi Arabia</sub>
+Riyadh, Saudi Arabia
 
 </div>
