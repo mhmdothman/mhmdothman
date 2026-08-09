@@ -1,69 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=230&section=header&text=Mohammad%20Othman&fontSize=44&fontColor=e2e8f0&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Offensive%20Security%20%26%20GRC%20(ISO%2027001)&descAlignY=55&descSize=17&descColor=94a3b8&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=64748B&center=true&vCenter=true&width=650&lines=Cybersecurity+B.Sc.+%40+JUST+(2026);Penetration+Testing+%7C+Web+App+Security+%7C+GRC;Building+CyScape+%E2%80%94+Gamified+Security+Platform;CTF+Player+%7C+Reverse+Engineering+%7C+Exploitation" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://linkedin.com/in/mohammedothman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:meothmann@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Riyadh%2C%20Saudi%20Arabia-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" />
-
-<img src="https://komarev.com/ghpvc/?username=mhmdothman&label=Profile%20Views&color=334155&style=flat-square" />
-<a href="https://github.com/mhmdothman?tab=followers"><img src="https://img.shields.io/github/followers/mhmdothman?label=Followers&style=flat-square&color=334155&labelColor=1e293b" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Mohammad%20Othman&fontSize=42&fontColor=e2e8f0&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Offensive%20Security%20%26%20GRC%20(ISO%2027001)&descAlignY=55&descSize=17&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
+
+<table width="100%">
+<tr>
+<td width="22%" align="center" valign="middle">
+<img src="https://github.com/mhmdothman.png" width="140" style="border-radius:50%"/><br/><br/>
+<b>Mohammad Othman</b><br/>
+<sub>Riyadh, Saudi Arabia</sub><br/>
+<sub>SCE Registered</sub><br/><br/>
+<a href="https://linkedin.com/in/mohammedothman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:meothmann@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" /></a>
+</td>
+<td width="78%">
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+**🎓 B.Sc. Cybersecurity**
+<br/><sub>JUST · 2026</sub>
+<br/><sub>GPA 3.14/4</sub>
+
+</td>
+<td width="34%" align="center">
+
+**🏆 100/100**
+<br/><sub>NCSC Capstone Score</sub>
+<br/><sub>Grade A · CyScape Project</sub>
+
+</td>
+<td width="33%" align="center">
+
+**🚩 3 Internships**
+<br/><sub>NCSC · Green Circle ×2</sub>
+<br/><sub>Active CTF Competitor</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=64748B&center=true&vCenter=true&width=600&lines=Web+App+Security+%7C+Vulnerability+Assessment;GRC+%7C+ISO+27001+%7C+Risk+%26+Compliance;Reverse+Engineering+%7C+Binary+Exploitation" alt="Typing SVG" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdothman&theme=react-dark&hide_border=true&bg_color=0d1117&color=94a3b8&line=f59e0b&point=e2e8f0&area=true&area_color=f59e0b" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<i>"Vulnerabilities don't hide from patience — they hide from people who stop looking."</i>
+</div>
+
+<br/>
 
 ## 🧭 About Me
 
 Cybersecurity graduate with hands-on experience in **penetration testing**, **web application security**, **vulnerability assessment**, and **Governance, Risk & Compliance (GRC)** using the ISO 27001 framework.
 
-Experience securing web applications and identifying critical vulnerabilities through internships at the **National Cyber Security Center (NCSC)** and **Green Circle for Cybersecurity**, including a progression from technical penetration testing into a freelance GRC consulting role.
+Experience securing web applications and identifying critical vulnerabilities through internships at the **National Cyber Security Center (NCSC)** and **Green Circle for Cybersecurity**, including a progression from technical penetration testing into a freelance GRC consulting role. Seeking an entry-level **Penetration Tester** or **Cybersecurity Analyst** role in Saudi Arabia.
 
-```yaml
-role: Cybersecurity Graduate
-seeking: Entry-level Penetration Tester / Cybersecurity Analyst
-location: Riyadh, Saudi Arabia
-status: SCE Registered · Transferable Iqama
-education: B.Sc. Cybersecurity, JUST (2026) — GPA 3.14/4
-languages: [Arabic (Native), English (Fluent)]
-```
+<br/>
 
-- 🔭 Currently building **CyScape** — a gamified offensive/defensive security learning platform
-- 🏆 TechForward Recognition & Appreciation Award (Intaj × Estarta Solutions × GIZ, 2026)
-- 🚩 Active in national CTF competitions — reverse engineering, pwn, web, crypto
-- 🎯 100/100 capstone score at NCSC — designed & exploited a vulnerable full-stack web app
-- 🌱 Mentor with the Ghiras IT Volunteer Team at JUST
+## 📊 GitHub Stats Dashboard
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdothman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdothman&theme=tokyonight&hide_border=true&background=0d1117&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" height="165"/>
+</div>
 
-## 🧰 Tech & Tools
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdothman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9" height="160"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-trophies.vercel.app/?username=mhmdothman&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" />
+</div>
+
+<!--START_SECTION:snake-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+<!--END_SECTION:snake-->
+
+<br/>
+
+## 🧰 Skills Breakdown
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🔴 Offensive Security**
+- Penetration Testing
+- Privilege Escalation
+- Reverse Engineering
+- Binary Exploitation
+
+</td>
+<td width="33%" valign="top">
+
+**🟡 Web & App Security**
+- SQL Injection / XSS
+- OWASP Top 10 Remediation
+- Secure Development
+- Vulnerability Scanning
+
+</td>
+<td width="33%" valign="top">
+
+**🟢 GRC & Forensics**
+- ISO 27001 Risk Assessment
+- Policy & Remediation Reports
+- Digital Forensics
+- Asset Inventory Management
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,linux,windows&theme=dark" /><br/><br/>
 
-<img src="https://img.shields.io/badge/Nmap-1e293b?style=for-the-badge&logo=nmap&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/Metasploit-1e293b?style=for-the-badge&logo=metasploit&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/Burp%20Suite-1e293b?style=for-the-badge&logo=burpsuite&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/Wireshark-1e293b?style=for-the-badge&logo=wireshark&logoColor=94a3b8" /><br/>
-<img src="https://img.shields.io/badge/Ghidra-1e293b?style=for-the-badge&logo=ghidra&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/IDA%20Pro-1e293b?style=for-the-badge&logo=ida&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/John%20the%20Ripper-1e293b?style=for-the-badge&logo=hackthebox&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/Autopsy%20%2F%20FTK-1e293b?style=for-the-badge&logo=exoscale&logoColor=94a3b8" /><br/>
-<img src="https://img.shields.io/badge/ISO%2027001-1e293b?style=for-the-badge&logo=iso&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/OWASP%20Top%2010-1e293b?style=for-the-badge&logo=owasp&logoColor=94a3b8" />
-<img src="https://img.shields.io/badge/Risk%20Assessment-1e293b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Digital%20Forensics-1e293b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-1e293b?style=for-the-badge&logo=nmap&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/Metasploit-1e293b?style=for-the-badge&logo=metasploit&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/Burp%20Suite-1e293b?style=for-the-badge&logo=burpsuite&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/Wireshark-1e293b?style=for-the-badge&logo=wireshark&logoColor=f59e0b" /><br/>
+<img src="https://img.shields.io/badge/Ghidra-1e293b?style=for-the-badge&logo=ghidra&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/IDA%20Pro-1e293b?style=for-the-badge&logo=ida&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/John%20the%20Ripper-1e293b?style=for-the-badge&logo=hackthebox&logoColor=f59e0b" />
+<img src="https://img.shields.io/badge/Autopsy%20%2F%20FTK-1e293b?style=for-the-badge&logo=exoscale&logoColor=f59e0b" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
-## 💼 Professional Experience
+## 💼 Experience Timeline
 
 <table>
 <tr><td width="150" valign="top"><b>Sep – Dec 2025</b><br/><sub>Amman, Jordan</sub></td>
@@ -88,7 +171,7 @@ Trained in Web Security, Penetration Testing, Password Cracking, and Secure Deve
 </td></tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
 ## 🚀 Featured Project
 
@@ -101,7 +184,7 @@ Trained in Web Security, Penetration Testing, Password Cracking, and Secure Deve
 
 Full-stack, web-based platform teaching offensive and defensive security through interactive, challenge-based levels. Built with Security-by-Design principles — secure session management, input validation, and resilience against the OWASP Top 10. Includes attack-and-defense simulation environments for practical training.
 
-**🏅 Grade A** on Capstone 1 & 2 · **TechForward Recognition & Appreciation Award**
+**🏅 Grade A** on Capstone 1 & 2 · **TechForward Recognition & Appreciation Award** (Intaj × Estarta Solutions × GIZ, 2026)
 
 </td>
 <td width="40%" valign="top">
@@ -115,11 +198,11 @@ Compete in national cybersecurity competitions covering reverse engineering, bin
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
 ## 🎓 Education & Certifications
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -143,33 +226,7 @@ B.Sc. Cybersecurity · Jan 2022 – Jul 2026 · GPA 3.14/4
 
 **Leadership:** Ghiras IT Volunteer Team, JUST (Jun 2024 – Jul 2026) — mentored students on academic planning and cybersecurity career development; authored technical study materials on network security fundamentals.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 📊 GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdothman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=94a3b8&icon_color=64748b&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdothman&theme=tokyonight&hide_border=true&background=0d1117&stroke=64748b&ring=64748b&fire=64748b&currStreakLabel=94a3b8" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdothman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=94a3b8&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdothman&theme=react-dark&hide_border=true&bg_color=0d1117&color=94a3b8&line=64748b&point=e2e8f0" height="160"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-trophies.vercel.app/?username=mhmdothman&theme=darkhub&no-frame=true&margin-w=8&column=7" />
-</div>
-
-<!--START_SECTION:snake-->
-<div align="center">
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/output/github-contribution-grid-snake-dark.svg" />
-</div>
-<!--END_SECTION:snake-->
-
-<sub align="center">The snake animation above requires a one-time GitHub Actions setup — instructions below.</sub>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/>
 
 <div align="center">
 
@@ -177,6 +234,8 @@ B.Sc. Cybersecurity · Jan 2022 – Jul 2026 · GPA 3.14/4
 
 <a href="https://linkedin.com/in/mohammedothman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:meothmann@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=mhmdothman&label=Profile%20Views&color=1e293b&style=flat-square" />
 
 <br/><br/>
 
