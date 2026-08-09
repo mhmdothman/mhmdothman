@@ -70,7 +70,7 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 ## Education
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/education-card.svg" width="640"/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/education-card.svg" width="700"/>
 </div>
 
 ## Experience
