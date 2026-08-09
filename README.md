@@ -88,7 +88,7 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 ## Certifications
 
 <div align="center">
-<img src="src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/certifications-card.svg" width="640"/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/certifications-card.svg" width="640"/>
 </div>
 
 ## Leadership & Volunteering
