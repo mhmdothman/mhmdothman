@@ -69,12 +69,9 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 ## Education
 
-**Jordan University of Science and Technology (JUST)** — Irbid, Jordan
-Bachelor of Science, Cybersecurity · January 2022 – July 2026 · GPA 3.14/4
-
-Relevant coursework: Ethical Hacking, Web Security, Digital Forensics, Reverse Engineering, Software Security, OS Security, Security Analytics, Network Defense, Network Security, Cryptography, Risk Management, Linux Operating Systems.
-
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/education-card.svg" width="640"/>
+</div>
 
 ## Experience
 
