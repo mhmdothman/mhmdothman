@@ -93,12 +93,9 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 ## Leadership & Volunteering
 
-**Ghiras IT Volunteer Team, JUST** *(June 2024 – July 2026)*
-- Mentored university students on academic planning and cybersecurity career development
-- Authored technical study materials covering Network Security and cybersecurity fundamentals
-- Assisted students in selecting cybersecurity specializations and technical learning paths
-
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/leadership-card.svg" width="640"/>
+</div>
 
 ## Contact Me
 
