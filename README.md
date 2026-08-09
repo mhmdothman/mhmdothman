@@ -65,15 +65,7 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 **Languages I Speak**
 <br/>
-
-<table>
-<tr>
-<td align="center" width="90"><img src="https://flagcdn.com/48x36/sa.png" width="40"/><br/><sub><b>Arabic</b></sub><br/><sub>Native</sub></td>
-<td align="center" width="90"><img src="https://flagcdn.com/48x36/gb.png" width="40"/><br/><sub><b>English</b></sub><br/><sub>Fluent</sub></td>
-</tr>
-</table>
-
-<br/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-languages.svg" height="48"/>
 
 ## Education
 
