@@ -1,244 +1,208 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Mohammad%20Othman&fontSize=42&fontColor=e2e8f0&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Offensive%20Security%20%26%20GRC%20(ISO%2027001)&descAlignY=55&descSize=17&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e1b4b,70:312e81,100:0f172a&height=230&section=header&text=Mohammad%20Othman&fontSize=44&fontColor=e2e8f0&fontAlignY=35&desc=Penetration%20Tester%20%7C%20Offensive%20Security%20%26%20GRC%20(ISO%2027001)&descAlignY=55&descSize=17&descColor=a5b4fc&animation=fadeIn" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=650&lines=Web+Application+Security+%7C+Vulnerability+Assessment;Governance%2C+Risk+%26+Compliance+%7C+ISO+27001;Reverse+Engineering+%7C+Binary+Exploitation" alt="Typing SVG" />
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="22%" align="center" valign="middle">
-<img src="https://github.com/mhmdothman.png" width="140" style="border-radius:50%"/><br/><br/>
-<b>Mohammad Othman</b><br/>
-<sub>Riyadh, Saudi Arabia</sub><br/>
-<sub>SCE Registered</sub><br/><br/>
-<a href="https://linkedin.com/in/mohammedothman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:meothmann@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=white" /></a>
-</td>
-<td width="78%">
+<a href="https://linkedin.com/in/mohammedothman"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:meothmann@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Riyadh%2C%20Saudi%20Arabia-1e1b4b?style=for-the-badge&logo=googlemaps&logoColor=a5b4fc" />
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=mhmdothman&label=Profile+Views&color=6366F1&style=flat-square" />
+<img src="https://img.shields.io/badge/SCE%20Registered-1e1b4b?style=flat-square&labelColor=1e1b4b&color=2DD4BF" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=100%25" width="100%"/>
+
+## Summary
+
+Cybersecurity graduate with hands-on experience in penetration testing, web application security, vulnerability assessment, and Governance, Risk & Compliance using the ISO 27001 framework. Experience securing web applications and identifying critical vulnerabilities through internships at the National Cyber Security Center (NCSC) and Green Circle for Cybersecurity, including a progression from technical penetration testing into a freelance GRC consulting role.
+
+Currently seeking an entry-level Penetration Tester or Cybersecurity Analyst position in Saudi Arabia.
 
 <table width="100%">
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center"><b>B.Sc. Cybersecurity</b><br/><sub>JUST · GPA 3.14/4</sub></td>
+<td width="25%" align="center"><b>100/100</b><br/><sub>NCSC Capstone Score</sub></td>
+<td width="25%" align="center"><b>3 Internships</b><br/><sub>NCSC · Green Circle ×2</sub></td>
+<td width="25%" align="center"><b>Active</b><br/><sub>CTF Competitor</sub></td>
+</tr>
+</table>
 
-**🎓 B.Sc. Cybersecurity**
-<br/><sub>JUST · 2026</sub>
-<br/><sub>GPA 3.14/4</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=100%25" width="100%"/>
+
+## Skills
+
+**Offensive Security**
+
+<img src="https://img.shields.io/badge/Penetration%20Testing-1e1b4b?style=flat-square&labelColor=1e1b4b&color=8B5CF6" />
+<img src="https://img.shields.io/badge/Privilege%20Escalation-1e1b4b?style=flat-square&labelColor=1e1b4b&color=8B5CF6" />
+<img src="https://img.shields.io/badge/Reverse%20Engineering-1e1b4b?style=flat-square&labelColor=1e1b4b&color=8B5CF6" />
+<img src="https://img.shields.io/badge/Binary%20Exploitation-1e1b4b?style=flat-square&labelColor=1e1b4b&color=8B5CF6" />
+<img src="https://img.shields.io/badge/Network%20Reconnaissance-1e1b4b?style=flat-square&labelColor=1e1b4b&color=8B5CF6" />
+
+**Web & Application Security**
+
+<img src="https://img.shields.io/badge/SQL%20Injection-1e1b4b?style=flat-square&labelColor=1e1b4b&color=2DD4BF" />
+<img src="https://img.shields.io/badge/Cross--Site%20Scripting-1e1b4b?style=flat-square&labelColor=1e1b4b&color=2DD4BF" />
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-1e1b4b?style=flat-square&labelColor=1e1b4b&color=2DD4BF" />
+<img src="https://img.shields.io/badge/Secure%20Development-1e1b4b?style=flat-square&labelColor=1e1b4b&color=2DD4BF" />
+<img src="https://img.shields.io/badge/Vulnerability%20Scanning-1e1b4b?style=flat-square&labelColor=1e1b4b&color=2DD4BF" />
+
+**Governance, Risk & Compliance**
+
+<img src="https://img.shields.io/badge/ISO%2027001-1e1b4b?style=flat-square&labelColor=1e1b4b&color=F59E0B" />
+<img src="https://img.shields.io/badge/Risk%20Assessment-1e1b4b?style=flat-square&labelColor=1e1b4b&color=F59E0B" />
+<img src="https://img.shields.io/badge/Policy%20%26%20Remediation-1e1b4b?style=flat-square&labelColor=1e1b4b&color=F59E0B" />
+<img src="https://img.shields.io/badge/Digital%20Forensics-1e1b4b?style=flat-square&labelColor=1e1b4b&color=F59E0B" />
+<img src="https://img.shields.io/badge/Asset%20Inventory-1e1b4b?style=flat-square&labelColor=1e1b4b&color=F59E0B" />
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,linux,windows&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Nmap-1e1b4b?style=flat-square&logo=nmap&labelColor=1e1b4b&color=38BDF8" />
+<img src="https://img.shields.io/badge/Metasploit-1e1b4b?style=flat-square&logo=metasploit&labelColor=1e1b4b&color=38BDF8" />
+<img src="https://img.shields.io/badge/Burp%20Suite-1e1b4b?style=flat-square&logo=burpsuite&labelColor=1e1b4b&color=38BDF8" />
+<img src="https://img.shields.io/badge/Wireshark-1e1b4b?style=flat-square&logo=wireshark&labelColor=1e1b4b&color=38BDF8" />
+<img src="https://img.shields.io/badge/Ghidra-1e1b4b?style=flat-square&logo=ghidra&labelColor=1e1b4b&color=38BDF8" />
+<img src="https://img.shields.io/badge/IDA%20Pro-1e1b4b?style=flat-square&logo=ida&labelColor=1e1b4b&color=38BDF8" />
+<img src="https://img.shields.io/badge/John%20the%20Ripper-1e1b4b?style=flat-square&labelColor=1e1b4b&color=38BDF8" />
+<img src="https://img.shields.io/badge/Autopsy%20%2F%20FTK%20Imager-1e1b4b?style=flat-square&labelColor=1e1b4b&color=38BDF8" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=100%25" width="100%"/>
+
+## Education
+
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
+
+**Jordan University of Science and Technology (JUST)** — Irbid, Jordan
+Bachelor of Science, Cybersecurity
+January 2022 – July 2026
+
+Relevant coursework: Ethical Hacking, Web Security, Digital Forensics, Reverse Engineering, Software Security, OS Security, Security Analytics, Network Defense, Network Security, Cryptography, Risk Management, Linux Operating Systems.
 
 </td>
-<td width="34%" align="center">
+<td width="30%" align="center" valign="middle">
 
-**🏆 100/100**
-<br/><sub>NCSC Capstone Score</sub>
-<br/><sub>Grade A · CyScape Project</sub>
-
-</td>
-<td width="33%" align="center">
-
-**🚩 3 Internships**
-<br/><sub>NCSC · Green Circle ×2</sub>
-<br/><sub>Active CTF Competitor</sub>
+**GPA**
+<br/>
+<sub style="font-size:20px">3.14 / 4.00</sub>
 
 </td>
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=64748B&center=true&vCenter=true&width=600&lines=Web+App+Security+%7C+Vulnerability+Assessment;GRC+%7C+ISO+27001+%7C+Risk+%26+Compliance;Reverse+Engineering+%7C+Binary+Exploitation" alt="Typing SVG" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=100%25" width="100%"/>
 
-</td>
-</tr>
-</table>
+## Experience
 
-<br/>
+**Governance, Risk & Compliance Trainee** — Green Circle for Cybersecurity
+*September 2025 – December 2025 · Amman, Jordan*
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdothman&theme=react-dark&hide_border=true&bg_color=0d1117&color=94a3b8&line=f59e0b&point=e2e8f0&area=true&area_color=f59e0b" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<i>"Vulnerabilities don't hide from patience — they hide from people who stop looking."</i>
-</div>
+- Selected for a competitive USAID-funded internship focused on Governance, Risk & Compliance, working against the ISO 27001 framework
+- Conducted security risk assessments and built risk treatment plans aligned to ISO 27001 controls
+- Built out corporate asset inventories and drafted security policy recommendations
+- Prepared remediation reports outlining compliance gaps and mitigation steps
+- Advanced to a freelance cybersecurity consultant role based on performance in the program
 
 <br/>
-
-## 🧭 About Me
-
-Cybersecurity graduate with hands-on experience in **penetration testing**, **web application security**, **vulnerability assessment**, and **Governance, Risk & Compliance (GRC)** using the ISO 27001 framework.
-
-Experience securing web applications and identifying critical vulnerabilities through internships at the **National Cyber Security Center (NCSC)** and **Green Circle for Cybersecurity**, including a progression from technical penetration testing into a freelance GRC consulting role. Seeking an entry-level **Penetration Tester** or **Cybersecurity Analyst** role in Saudi Arabia.
-
-<br/>
-
-## 📊 GitHub Stats Dashboard
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdothman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdothman&theme=tokyonight&hide_border=true&background=0d1117&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdothman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=c9d1d9" height="160"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-trophies.vercel.app/?username=mhmdothman&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" />
-</div>
-
-<!--START_SECTION:snake-->
-<div align="center">
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-<!--END_SECTION:snake-->
-
-<br/>
-
-## 🧰 Skills Breakdown
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**🔴 Offensive Security**
-- Penetration Testing
-- Privilege Escalation
-- Reverse Engineering
-- Binary Exploitation
-
-</td>
-<td width="33%" valign="top">
-
-**🟡 Web & App Security**
-- SQL Injection / XSS
-- OWASP Top 10 Remediation
-- Secure Development
-- Vulnerability Scanning
-
-</td>
-<td width="33%" valign="top">
-
-**🟢 GRC & Forensics**
-- ISO 27001 Risk Assessment
-- Policy & Remediation Reports
-- Digital Forensics
-- Asset Inventory Management
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,linux,windows&theme=dark" /><br/><br/>
-
-<img src="https://img.shields.io/badge/Nmap-1e293b?style=for-the-badge&logo=nmap&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/Metasploit-1e293b?style=for-the-badge&logo=metasploit&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/Burp%20Suite-1e293b?style=for-the-badge&logo=burpsuite&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/Wireshark-1e293b?style=for-the-badge&logo=wireshark&logoColor=f59e0b" /><br/>
-<img src="https://img.shields.io/badge/Ghidra-1e293b?style=for-the-badge&logo=ghidra&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/IDA%20Pro-1e293b?style=for-the-badge&logo=ida&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/John%20the%20Ripper-1e293b?style=for-the-badge&logo=hackthebox&logoColor=f59e0b" />
-<img src="https://img.shields.io/badge/Autopsy%20%2F%20FTK-1e293b?style=for-the-badge&logo=exoscale&logoColor=f59e0b" />
-
-</div>
-
-<br/>
-
-## 💼 Experience Timeline
-
-<table>
-<tr><td width="150" valign="top"><b>Sep – Dec 2025</b><br/><sub>Amman, Jordan</sub></td>
-<td>
-
-**GRC Trainee** — Green Circle for Cybersecurity
-USAID-funded internship — conducted ISO 27001-aligned risk assessments, built risk treatment plans, drafted security policy recommendations and remediation reports. Advanced to a freelance GRC consultant role based on performance.
-</td></tr>
-
-<tr><td valign="top"><b>Aug – Sep 2025</b><br/><sub>Amman, Jordan</sub></td>
-<td>
 
 **Penetration Tester Trainee** — Green Circle for Cybersecurity
-End-to-end penetration testing against simulated environments including privilege escalation to root. Network recon and vulnerability assessment with Nmap, Wireshark, and Metasploit. Authored professional pentest reports.
-</td></tr>
+*August 2025 – September 2025 · Amman, Jordan*
 
-<tr><td valign="top"><b>Jul – Sep 2025</b><br/><sub>Amman, Jordan</sub></td>
-<td>
-
-**Internship Trainee — Masar Program** — National Cyber Security Center (NCSC)
-Trained in Web Security, Penetration Testing, Password Cracking, and Secure Development. Designed a full-stack vulnerable web app (Java, CSS, SQL) — **capstone score 100/100**. Identified SQLi/XSS vulnerabilities and remediated per OWASP Top 10. Automated vulnerability scanning with Python.
-</td></tr>
-</table>
+- Executed end-to-end penetration testing against simulated environments, including privilege escalation to root-level access
+- Conducted network reconnaissance and vulnerability assessments using Nmap, Wireshark, and Metasploit
+- Reviewed system architectures to identify infrastructure misconfigurations and documented associated risks
+- Authored professional penetration testing reports detailing exploitation paths and remediation recommendations
 
 <br/>
 
-## 🚀 Featured Project
+**Internship Trainee, Masar Program** — National Cyber Security Center (NCSC)
+*July 2025 – September 2025 · Amman, Jordan*
 
-<table>
-<tr>
-<td width="60%" valign="top">
+- Completed intensive training modules covering Web Security, Penetration Testing, Password Cracking, and Secure Development
+- Designed and developed a full-stack vulnerable web application (Java, CSS, SQL) as a final technical assessment, achieving a perfect capstone score of 100/100
+- Conducted penetration testing on the application, identifying critical SQL Injection and Cross-Site Scripting vulnerabilities
+- Implemented secure development practices to remediate identified vulnerabilities based on the OWASP Top 10 framework
+- Developed Python scripts to automate vulnerability scanning and streamline security testing workflows
 
-### 🛡️ CyScape — Gamified Security Learning Platform
-*Capstone Project · Oct 2025 – Present*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=100%25" width="100%"/>
 
-Full-stack, web-based platform teaching offensive and defensive security through interactive, challenge-based levels. Built with Security-by-Design principles — secure session management, input validation, and resilience against the OWASP Top 10. Includes attack-and-defense simulation environments for practical training.
+## Projects
 
-**🏅 Grade A** on Capstone 1 & 2 · **TechForward Recognition & Appreciation Award** (Intaj × Estarta Solutions × GIZ, 2026)
+**CyScape — Gamified Security Learning Platform** *(Capstone Project, October 2025 – Present)*
 
-</td>
-<td width="40%" valign="top">
+Architected and engineered a full-stack, web-based gamified platform teaching offensive and defensive security through interactive, challenge-based levels. Implemented a Security-by-Design backend with secure session management and input validation, resilient against the OWASP Top 10. Built attack-and-defense simulation environments for practical cybersecurity training.
 
-### 🚩 Capture The Flag
-*Jul 2025 – Present*
-
-Compete in national cybersecurity competitions covering reverse engineering, binary exploitation, web security, and cryptography using **Ghidra**, **IDA Pro**, and Linux-based tooling.
-
-</td>
-</tr>
-</table>
+Awarded Grade A for Capstone Project 1 and Capstone Project 2. Received the TechForward Recognition & Appreciation Award — Intaj, in collaboration with Estarta Solutions & GIZ (2026).
 
 <br/>
 
-## 🎓 Education & Certifications
+**Capture The Flag** *(July 2025 – Present)*
+
+Compete in national cybersecurity competitions covering reverse engineering, binary exploitation, web security, and cryptography, using Ghidra, IDA Pro, and Linux-based tooling.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=100%25" width="100%"/>
+
+## Certifications
 
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Jordan University of Science and Technology (JUST)**
-B.Sc. Cybersecurity · Jan 2022 – Jul 2026 · GPA 3.14/4
-
-<sub>Ethical Hacking · Web Security · Digital Forensics · Reverse Engineering · Software Security · OS Security · Security Analytics · Network Defense · Network Security · Cryptography · Risk Management · Linux OS</sub>
-
-</td>
-<td width="50%" valign="top">
-
-- Ethical Hacking Course Certificate — Cisco Networking Academy
-- Ethical Hacking Practical Training — The Hope International
-- Masar Program — NCSC Jordan
-- Cyber Bridge — Green Circle for Cybersecurity
-- GRC Internship — Green Circle for Cybersecurity
-
-</td>
-</tr>
+<tr><td>Ethical Hacking Course Certificate</td><td align="right"><sub>Cisco Networking Academy</sub></td></tr>
+<tr><td>Ethical Hacking Practical Training</td><td align="right"><sub>The Hope International</sub></td></tr>
+<tr><td>Masar Program</td><td align="right"><sub>National Cyber Security Center Jordan</sub></td></tr>
+<tr><td>Cyber Bridge</td><td align="right"><sub>Green Circle for Cybersecurity</sub></td></tr>
+<tr><td>Governance, Risk, and Compliance Internship</td><td align="right"><sub>Green Circle for Cybersecurity</sub></td></tr>
 </table>
 
-**Leadership:** Ghiras IT Volunteer Team, JUST (Jun 2024 – Jul 2026) — mentored students on academic planning and cybersecurity career development; authored technical study materials on network security fundamentals.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=100%25" width="100%"/>
 
-<br/>
+## Leadership & Volunteering
+
+**Ghiras IT Volunteer Team, JUST**
+*June 2024 – July 2026*
+
+- Mentored university students on academic planning and cybersecurity career development
+- Authored technical study materials covering Network Security and cybersecurity fundamentals
+- Assisted students in selecting cybersecurity specializations and technical learning paths
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=100%25" width="100%"/>
+
+## GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdothman&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2DD4BF&icon_color=8B5CF6&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdothman&hide_border=true&background=0d1117&stroke=2DD4BF&ring=8B5CF6&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdothman&layout=compact&hide_border=true&bg_color=0d1117&title_color=2DD4BF&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdothman&hide_border=true&bg_color=0d1117&color=8B5CF6&line=2DD4BF&point=F59E0B&area=true&area_color=6366F1" height="160"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-trophies.vercel.app/?username=mhmdothman&theme=discord&no-frame=true&margin-w=8&row=1&column=7&bg_color=0d1117&title_color=2DD4BF&icon_color=8B5CF6&text_color=c9d1d9" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:6366F1&height=3&width=100%25" width="100%"/>
 
 <div align="center">
 
-### 📫 Let's Connect
+## Contact
 
-<a href="https://linkedin.com/in/mohammedothman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:meothmann@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=mhmdothman&label=Profile%20Views&color=1e293b&style=flat-square" />
+<a href="https://linkedin.com/in/mohammedothman"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:meothmann@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:1e1b4b,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
