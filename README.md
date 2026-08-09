@@ -101,8 +101,9 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mohammedothman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:meothmann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mohammedothman"><img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/contact-linkedin.svg" height="64"/></a>
+<a href="mailto:meothmann@gmail.com"><img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/contact-email.svg" height="64"/></a>
+<a href="https://profile.hackthebox.com/profile/019f2b6b-300b-7227-ba64-27f0af49c313"><img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/contact-htb.svg" height="64"/></a>
 
 Riyadh, Saudi Arabia
 
