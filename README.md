@@ -25,19 +25,44 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 ## Skills
 
 **Programming Languages**
-Python, C++, JavaScript, TypeScript, Assembly
+<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,js,ts&theme=dark" />
+<img src="https://img.shields.io/badge/Assembly-161b22?style=for-the-badge&labelColor=161b22&color=c9a875" />
 
 **Frameworks & Concepts**
-ISO 27001, OWASP Top 10, Risk Assessment, Vulnerability Assessment, Digital Forensics, Reverse Engineering
+<br/>
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-161b22?style=for-the-badge&logo=owasp&logoColor=c9a875&labelColor=161b22&color=c9a875" />
+<img src="https://img.shields.io/badge/ISO%2027001-161b22?style=for-the-badge&labelColor=161b22&color=c9a875" />
+<img src="https://img.shields.io/badge/Risk%20Assessment-161b22?style=for-the-badge&labelColor=161b22&color=c9a875" />
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-161b22?style=for-the-badge&labelColor=161b22&color=c9a875" />
+<img src="https://img.shields.io/badge/Digital%20Forensics-161b22?style=for-the-badge&labelColor=161b22&color=c9a875" />
+<img src="https://img.shields.io/badge/Reverse%20Engineering-161b22?style=for-the-badge&labelColor=161b22&color=c9a875" />
 
 **Security Tools**
-Nmap, Metasploit, Burp Suite, John the Ripper, Wireshark, Autopsy, FTK Imager, Ghidra, IDA Pro
+<br/>
+<img src="https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&logo=nmap&logoColor=79b8ff&labelColor=161b22&color=79b8ff" />
+<img src="https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&logo=metasploit&logoColor=79b8ff&labelColor=161b22&color=79b8ff" />
+<img src="https://img.shields.io/badge/Burp%20Suite-161b22?style=for-the-badge&logo=burpsuite&logoColor=79b8ff&labelColor=161b22&color=79b8ff" />
+<img src="https://img.shields.io/badge/John%20the%20Ripper-161b22?style=for-the-badge&labelColor=161b22&color=79b8ff" />
+<img src="https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=79b8ff&labelColor=161b22&color=79b8ff" />
+<img src="https://img.shields.io/badge/Autopsy-161b22?style=for-the-badge&labelColor=161b22&color=79b8ff" />
+<img src="https://img.shields.io/badge/FTK%20Imager-161b22?style=for-the-badge&labelColor=161b22&color=79b8ff" />
+<img src="https://img.shields.io/badge/Ghidra-161b22?style=for-the-badge&logo=ghidra&logoColor=79b8ff&labelColor=161b22&color=79b8ff" />
+<img src="https://img.shields.io/badge/IDA%20Pro-161b22?style=for-the-badge&logo=ida&logoColor=79b8ff&labelColor=161b22&color=79b8ff" />
 
 **Operating Systems**
-Linux, Windows
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
 
 **Languages I Speak**
-Arabic — Native, English — Fluent
+<br/>
+
+<table>
+<tr>
+<td align="center" width="90"><img src="https://flagcdn.com/48x36/sa.png" width="40"/><br/><sub><b>Arabic</b></sub><br/><sub>Native</sub></td>
+<td align="center" width="90"><img src="https://flagcdn.com/48x36/gb.png" width="40"/><br/><sub><b>English</b></sub><br/><sub>Fluent</sub></td>
+</tr>
+</table>
 
 <br/>
 
