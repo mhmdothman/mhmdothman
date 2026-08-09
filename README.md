@@ -26,8 +26,8 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 **Programming Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=py,cpp,js,ts&theme=dark" height="54"/>
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icon-assembly.svg" height="92"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,js,ts&theme=dark" height="48"/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icon-assembly.svg" height="48"/>
 
 **Frameworks & Concepts**
 <br/>
@@ -35,13 +35,17 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 **Security Tools** — organized by penetration testing phase
 
-*Reconnaissance & Network Analysis*
+*Reconnaissance & Enumeration*
 <br/>
 <img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-recon.svg"/>
 
 *Exploitation*
 <br/>
 <img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-exploit.svg"/>
+
+*Access & Post-Exploitation*
+<br/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-tools-access.svg"/>
 
 *Password Attacks*
 <br/>
