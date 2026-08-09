@@ -65,7 +65,7 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 **Languages**
 <br/>
-<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-languages.svg" height="60"/>
+<img src="https://raw.githubusercontent.com/mhmdothman/mhmdothman/main/assets/icons-languages.svg" height="70"/>
 
 ## Education
 
