@@ -3,6 +3,7 @@
 # Mohammad Othman
 
 Penetration Tester | Offensive Security & GRC (ISO 27001) | Cybersecurity B.Sc. (JUST 2026)
+<br/>
 Transferable Iqama | Registered with Saudi Council of Engineers (SCE)
 
 </div>
@@ -15,13 +16,18 @@ Cybersecurity graduate with hands-on experience in penetration testing, web appl
 
 <br/>
 
-<table width="100%">
-<tr>
-<td align="center" width="25%">DEGREE<br/><b>B.Sc. Cybersecurity</b></td>
-<td align="center" width="25%">ROLE<br/><b>Developer of CyScape</b></td>
-<td align="center" width="25%">INTERNSHIPS<br/><b>3 Completed</b></td>
-<td align="center" width="25%">CTF<br/><b>Active Competitor</b></td>
-</tr>
+<table width="60%" align="center">
+<tr><td>
+
+**Degree:** B.Sc. Cybersecurity
+<br/>
+**Developer of CyScape**
+<br/>
+**Internships:** 3 Completed
+<br/>
+**CTF Status:** Active Competitor
+
+</td></tr>
 </table>
 
 <br/>
