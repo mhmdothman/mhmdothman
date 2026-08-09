@@ -3,7 +3,6 @@
 # Mohammad Othman
 
 Penetration Tester | Offensive Security & GRC (ISO 27001) | Cybersecurity B.Sc. (JUST 2026)
-
 Transferable Iqama | Registered with Saudi Council of Engineers (SCE)
 
 </div>
